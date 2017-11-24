@@ -1,0 +1,32 @@
+header{
+	border: 3px solid black;
+	font-size: 25px;
+	text-align: center;
+	height:230px;
+	width:  75%;
+	margin:50px auto;
+}
+
+h3 {
+	border: 3px ;
+	font-size: 30px;
+	font-style: italic;
+	text-align: center;
+	height:150px;
+	width:  80%;
+	margin:15px auto;
+
+}
+
+.panel-body{
+	border: 3px solid black;
+	font-size: 25px;
+	text-align: center;
+	height:150px;
+	width:  80%;
+	margin:15px auto;
+}
+
+body{
+	background-color:#d9cfe3;
+}
